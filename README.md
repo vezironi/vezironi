@@ -161,16 +161,6 @@ Production environments built around containerization, reverse proxies and moder
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vezironi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vezironi&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=vezironi&theme=github-dark-blue&hide_border=true&background=0D1117" />
 
 </div>
